@@ -1,2 +1,16 @@
-# lab6-K3-2026
-Laboratory work 6 in C, variant K=3
+# lab6_K3
+
+This repository contains the solution for laboratory work 6 (variant K=3).
+
+## File
+- `lab6_K3.c`
+
+## Build
+```bash
+gcc lab6_K3.c -o lab6
+```
+
+## Run
+```bash
+./lab6
+```
